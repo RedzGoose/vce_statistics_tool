@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/ayanafridkin/OneDrive - Caulfield Grammar School/Year 9 2024/VCE IT/Unit 2 Applied Computing/vce_statistics_tool",
+        "app_url": "https://redzgoose.shinyapps.io/redz_vce_statistics_tool/",
+        "app_id": 12690275,
+        "app_guid": null,
+        "title": "redz_vce_statistics_tool",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
